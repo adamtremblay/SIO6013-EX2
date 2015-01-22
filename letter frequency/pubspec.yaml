@@ -1,0 +1,7 @@
+name: word_frequency
+version: 0.0.1
+author: Dzenan Ridjanovic <dzenanr@gmail.com>
+description: Simple web application with a map of word counts in a text.
+homepage: http://ondart.me/
+dependencies:
+  browser: any

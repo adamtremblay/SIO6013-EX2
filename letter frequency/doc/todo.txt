@@ -1,0 +1,10 @@
+To Do
+
+- change CSS
+- Create a web application, named letter_count, similar to Word Frequency.
+Instead of words count letters in a given text.
+
+Done
+
++ use a regular expression to remove characters not pertinent to word frequency count.
++ clear button

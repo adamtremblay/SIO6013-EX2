@@ -1,0 +1,21 @@
+Word Frequency
+
+http://www.writewords.org.uk/word_count.asp
+http://www.wordfrequency.info/
+
+Regular Expressions
+
+http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/
+
+http://www.regular-expressions.info/tutorial.html
+http://gnosis.cx/publish/programming/regular_expressions.html
+http://weblogs.asp.net/jgalloway/archive/2005/09/27/426087.aspx
+http://www.zytrax.com/tech/web/regex.htm
+http://wiki.tcl.tk/989
+
+http://stackoverflow.com/questions/331426/common-regular-expressions
+http://net.tutsplus.com/tutorials/other/8-regular-expressions-you-should-know/
+http://www.mkyong.com/regular-expressions/10-java-regular-expression-examples-you-should-know/
+
+
+
